@@ -1,0 +1,12 @@
+{
+  "cssTheme": "Prism",
+  "accentColor": "#1f5fe0",
+  "nativeMenus": true,
+  "theme": "system",
+  "baseFontSize": 20,
+  "baseFontSizeAction": true,
+  "interfaceFontFamily": "Courier New",
+  "textFontFamily": "",
+  "showViewHeader": false,
+  "showRibbon": false
+}

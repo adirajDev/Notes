@@ -1,0 +1,258 @@
+{
+  "main": {
+    "id": "5cc6cef4bb9e1dbd",
+    "type": "split",
+    "children": [
+      {
+        "id": "e1abbf3a4c039ba3",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0097e06c66fedaa3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Os/Process/06. Process creation and termination.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "06. Process creation and termination"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "49bdddce652b9c42",
+    "type": "split",
+    "children": [
+      {
+        "id": "99e1c351b47f55b7",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f7db88f67cd827f1",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "806dc728160ee73c",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "byModifiedTime"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "128132afd15677b2",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 282.5
+  },
+  "right": {
+    "id": "f61bf46223eeb371",
+    "type": "split",
+    "children": [
+      {
+        "id": "71b4834f1e80b44e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9c7dc724479af0a4",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Project- Uptime monitor/Chronology.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Chronology"
+            }
+          },
+          {
+            "id": "d6b0eed38e73acc0",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Web Development/ReactJS/Controlled vs Uncontrolled components.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Controlled vs Uncontrolled components"
+            }
+          },
+          {
+            "id": "c2947de70d070880",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Web Development/ReactJS/Controlled vs Uncontrolled components.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Controlled vs Uncontrolled components"
+            }
+          },
+          {
+            "id": "3df03cbb29cdfc3e",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "a0cfdee43ea5b48d",
+            "type": "leaf",
+            "state": {
+              "type": "localgraph",
+              "state": {
+                "file": "Web Development/ReactJS/Controlled vs Uncontrolled components.md",
+                "options": {
+                  "collapse-filter": true,
+                  "search": "",
+                  "localJumps": 1,
+                  "localBacklinks": true,
+                  "localForelinks": true,
+                  "localInterlinks": false,
+                  "showTags": false,
+                  "showAttachments": false,
+                  "hideUnresolved": false,
+                  "collapse-color-groups": true,
+                  "colorGroups": [],
+                  "collapse-display": true,
+                  "showArrow": false,
+                  "textFadeMultiplier": 0,
+                  "nodeSizeMultiplier": 1,
+                  "lineSizeMultiplier": 1,
+                  "collapse-forces": false,
+                  "centerStrength": 0.404365904365904,
+                  "repelStrength": 12.993762993763,
+                  "linkStrength": 1,
+                  "linkDistance": 118,
+                  "scale": 0.7466278853186893,
+                  "close": true
+                }
+              },
+              "icon": "lucide-git-fork",
+              "title": "Graph of Controlled vs Uncontrolled components"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 268.5,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "bases:Create new base": false,
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "obsidian-excalidraw-plugin:New drawing": false
+    }
+  },
+  "active": "0097e06c66fedaa3",
+  "lastOpenFiles": [
+    "Os/Process/03. Process Control Block (PCB).md",
+    "Os/Process/06. Process creation and termination.md",
+    "Os/Process/02. Process states.md",
+    "Os/Process/01. How it looks in Memory.md",
+    "Os/Process/04. Process Scheduling.md",
+    "Os/Process/05. Schedulers.md",
+    "Os/Process/attachments/Pasted image 20251005133224.png",
+    "Os/Process/attachments/Pasted image 20251005131835.png",
+    "Os/Process/attachments/Pasted image 20251005112813.png",
+    "Os/Process/attachments/Pasted image 20251005111339.png",
+    "Os/Process/attachments/Pasted image 20251005094343.png",
+    "Os/Process/attachments/Pasted image 20251005093540.png",
+    "Os/Process/attachments",
+    "Os/Basics/03. System calls.md",
+    "Os/Process",
+    "Os/Basics/attachments/Pasted image 20251004133155.png",
+    "Os/Basics/02. Types of OS.md",
+    "Os/Basics/attachments/Types of OS.png",
+    "Os/Basics/attachments/Pasted image 20251004130610.png",
+    "Os/Basics/04. Cache and I-O.md",
+    "Os/Basics/attachments/Pasted image 20251004123140.png",
+    "Os/Basics/attachments/Drawing 2025-10-04 12.27.39.excalidraw.md",
+    "Excalidraw/Drawing 2025-10-04 12.27.27.excalidraw.md",
+    "Excalidraw/Untitled.md",
+    "Os/Basics/01. Basic.md",
+    "Os/Basics/attachments",
+    "Excalidraw/Drawing 2025-09-30 09.25.12.excalidraw.md",
+    "Excalidraw",
+    "Attachments",
+    "Project- web3 task hub/Steps for setting up AWS.md",
+    "ZZZ/Eco part 2.md",
+    "Project- Uptime monitor/Creating api.md",
+    "ZZZ/ECO notes.md",
+    "Project- Uptime monitor/Chronology.md",
+    "Project- web3 task hub/Untitled.md",
+    "Project- web3 task hub",
+    "Typescript/Basic OOPs.md",
+    "Title.md",
+    "Untitled.base",
+    "Typescript/Basic types.md",
+    "Typescript",
+    "Apply.md",
+    "🚀Mission JOB🚀.md",
+    "Core Subjects/SQL.md",
+    "Data Structure & Algorithms/14 2-D Dynamic Programming/Untitled 1.base",
+    "Data Structure & Algorithms/14 2-D Dynamic Programming/Untitled.base",
+    "Untitled.canvas",
+    "Untitled 1.canvas"
+  ]
+}

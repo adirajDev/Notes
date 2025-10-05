@@ -1,0 +1,5 @@
+{
+  "format": "DD-MM-YYYY hh mm a",
+  "folder": "Journal/Daily",
+  "template": "Templates/Dairy Template"
+}
